@@ -152,6 +152,7 @@ Genkit is a framework designed to help you build AI-powered applications and fea
 
 ## Tutorials
 
+- [Genkit by Example](https://examples.genkit.com) - Short explanatory examples of Genkit concepts put together officially by the Genkit team.
 - [Slack Bot App](https://medium.com/firebase-developers/build-a-slack-bot-app-with-firebase-genkit-in-just-100-lines-71d4e49c9e08) - A tutorial on how to build a Slack Bot App with Firebase Genkit.
 
 <!-- END CONTENT -->
